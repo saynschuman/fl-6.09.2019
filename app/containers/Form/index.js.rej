@@ -1,0 +1,4 @@
+diff a/app/containers/Form/index.js b/app/containers/Form/index.js	(rejected hunks)
+@@ -21 +21 @@ import Button from '@material-ui/core/Button';
+-import { KeyboardTimePicker, KeyboardDatePicker } from '@material-ui/pickers';
++// import { KeyboardTimePicker, KeyboardDatePicker } from '@material-ui/pickers';
