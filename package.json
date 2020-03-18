@@ -92,7 +92,7 @@
     "luxon": "^1.17.2",
     "material-ui-pickers": "^2.2.4",
     "material-ui-popup-state": "^1.4.1",
-    "minimist": "1.2.0",
+    "minimist": "1.2.2",
     "moment": "^2.24.0",
     "prop-types": "15.7.2",
     "react": "16.8.6",
